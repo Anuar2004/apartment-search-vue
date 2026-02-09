@@ -1,0 +1,110 @@
+[
+  {
+    "area": 32,
+    "rooms": 1,
+    "address": "Астана, р-н Есиль, пр. Мангилик Ел 17",
+    "image": "/images/apt-1.jpg"
+  },
+  {
+    "area": 48,
+    "rooms": 2,
+    "address": "Астана, р-н Есиль, ул. Туркестан 10",
+    "image": "/images/apt-2.jpg"
+  },
+  {
+    "area": 55,
+    "rooms": 2,
+    "address": "Астана, р-н Есиль, ул. Керей-Жанибек хандар 28",
+    "image": "/images/apt-3.jpg"
+  },
+  {
+    "area": 72,
+    "rooms": 3,
+    "address": "Астана, р-н Есиль, ул. Сарайшык 5",
+    "image": "/images/apt-4.jpg"
+  },
+  {
+    "area": 30,
+    "rooms": 1,
+    "address": "Астана, р-н Алматы, пр. Р. Кошкарбаева 56",
+    "image": "/images/apt-5.jpg"
+  },
+  {
+    "area": 46,
+    "rooms": 2,
+    "address": "Астана, р-н Алматы, ул. Иманова 41",
+    "image": "/images/apt-6.jpg"
+  },
+  {
+    "area": 58,
+    "rooms": 2,
+    "address": "Астана, р-н Алматы, ул. Тауелсиздик 34",
+    "image": "/images/apt-7.jpg"
+  },
+  {
+    "area": 75,
+    "rooms": 3,
+    "address": "Астана, р-н Алматы, ул. Б. Момышулы 12",
+    "image": "/images//apt-8.jpg"
+  },
+  {
+    "area": 28,
+    "rooms": 1,
+    "address": "Астана, р-н Сарыарка, пр. Республики 8",
+    "image": "/images/apt-9.jpg"    
+  },
+  {
+    "area": 44,
+    "rooms": 2,
+    "address": "Астана, р-н Сарыарка, ул. Богенбай батыра 23",
+    "image": "/images/apt-10.jpg"
+  },
+  {
+    "area": 52,
+    "rooms": 2,
+    "address": "Астана, р-н Сарыарка, ул. Сейфуллина 29",
+    "image": "/images/apt-11.jpg"
+  },
+  {
+    "area": 68,
+    "rooms": 3,
+    "address": "Астана, р-н Сарыарка, ул. Женис 72",
+    "image": "/images/apt-12.jpg"
+  },
+  {
+    "area": 35,
+    "rooms": 1,
+    "address": "Астана, р-н Есиль, ул. Орынбор 12",
+    "image": "/images/apt-13.jpg"
+  },
+  {
+    "area": 50,
+    "rooms": 2,
+    "address": "Астана, р-н Есиль, ул. Акмешит 9",
+    "image": "/images/apt-14.jpg"
+  },
+  {
+    "area": 90,
+    "rooms": 4,
+    "address": "Астана, р-н Есиль, пр. Кабанбай батыра 48",
+    "image": "/images/apt-15.jpg"
+  },
+  {
+    "area": 70,
+    "rooms": 3,
+    "address": "Астана, р-н Алматы, ул. Сатпаева 20",
+    "image": "/images/apt-16.jpg"
+  },
+  {
+    "area": 31,
+    "rooms": 1,
+    "address": "Астана, р-н Сарыарка, ул. Кенесары 69",
+    "image": "/images/apt-17.jpg"
+  },
+  {
+    "area": 60,
+    "rooms": 2,
+    "address": "Астана, р-н Алматы, ул. Мәңгілік Ел 55",
+    "image": "/images/apt-18.jpg"
+  }
+]
