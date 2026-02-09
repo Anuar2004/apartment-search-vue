@@ -8,7 +8,7 @@
 
 1. Clone the repository
 
-git clone https://github.com/your-username/apartment-search.git
+git clone https://github.com/Anuar2004/apartment-search-vue
 cd apartment-search
 
 2. Install dependencies
